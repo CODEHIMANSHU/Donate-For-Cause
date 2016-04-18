@@ -1,2 +1,2 @@
 # Donate-For-Cause
-This is a user friendly webapp for donation and recieving blood very quickly in case of emergency or otherwise
+This is a dynamic health website where we tried to bridge the gap between blood donor and patient
